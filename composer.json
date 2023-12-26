@@ -1,5 +1,9 @@
 {
     "name": "taraqr9/add-some",
+    "description": "Add Some, it's a testing package!",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Taraqr9\\AddSome\\": "src/"
@@ -11,6 +15,5 @@
             "email": "taraqr9@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
