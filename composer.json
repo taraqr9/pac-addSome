@@ -1,0 +1,15 @@
+{
+    "name": "taraqr9/add-some",
+    "autoload": {
+        "psr-4": {
+            "Taraqr9\\AddSome\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MD.Taraq Rahman",
+            "email": "taraqr9@gmail.com"
+        }
+    ],
+    "require": {}
+}
