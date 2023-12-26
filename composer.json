@@ -3,7 +3,7 @@
     "description": "Add Some, it's a testing package!",
     "type": "project",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Taraqr9\\AddSome\\": "src/"
