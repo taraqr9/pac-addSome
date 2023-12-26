@@ -11,5 +11,6 @@
             "email": "taraqr9@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
